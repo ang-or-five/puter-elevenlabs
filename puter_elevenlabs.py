@@ -1,3 +1,9 @@
+"""
+Puter ElevenLabs Python Wrapper
+License: MIT
+Copyright (c) 2026 ang-or-five
+"""
+
 import os
 import requests
 from dotenv import load_dotenv
